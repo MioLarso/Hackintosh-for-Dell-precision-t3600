@@ -28,4 +28,4 @@ If you have any issuse with it I will gladly hear it
 
 # Cridets 
 
-Edhawk from https://hackintosher.com/
+Edhawk from https://hackintosher.com/ for helping tunning it and make it stable 
