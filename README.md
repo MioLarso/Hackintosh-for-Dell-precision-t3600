@@ -25,3 +25,7 @@ Cpu speed step
 Sas controaler (working on it )
 
 If you have any issuse with it I will gladly hear it 
+
+# Cridets 
+
+Edhawk from https://hackintosher.com/
