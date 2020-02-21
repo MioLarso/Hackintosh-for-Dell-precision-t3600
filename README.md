@@ -1,0 +1,1 @@
+# Hackintosh-for-Dell-precision-t3600
